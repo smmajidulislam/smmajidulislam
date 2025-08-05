@@ -1,9 +1,7 @@
 <!-- Profile Image & Name -->
 <p align="center">
-  <img width="150" src="https://github.com/smmajidulislam.png" alt="S. M. Majidul Islam" />
+  <img width="150" src="https://raw.githubusercontent.com/smmajidulislam/smmajidulislam/main/assets/profile.jpg" alt="Profile Image" />
 </p>
-
-
 
 <h1 align="center">S. M. Majidul Islam</h1>
 <p align="center">
@@ -16,8 +14,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;JavaScript+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
-
-
 
 ---
 
@@ -33,7 +29,6 @@ Hi! I am **S. M. Majidul Islam**, a passionate self-taught MERN Stack Developer.
 - 🔭 Currently exploring full-stack architecture and cloud integration.
 - 🌱 Learning Web 3.0 and blockchain technologies.
 - 👯 Looking to collaborate on open-source and team projects.
-
 
 ---
 
@@ -75,15 +70,13 @@ Hi! I am **S. M. Majidul Islam**, a passionate self-taught MERN Stack Developer.
 
 <p align="center">
 
-| Project Name | Description | GitHub Link | Live URL |
-|:------------:|:-----------:|:-----------:|:--------:|
-| Project 1    | Brief about project 1 | [GitHub](https://github.com/smmajidulislam/project1) | [Live Site](https://example.com) |
-| Project 2    | Brief about project 2 | [GitHub](https://github.com/smmajidulislam/project2) | [Live Site](https://example2.com) |
+| Project Name |      Description      |                     GitHub Link                      |             Live URL              |
+| :----------: | :-------------------: | :--------------------------------------------------: | :-------------------------------: |
+|  Project 1   | Brief about project 1 | [GitHub](https://github.com/smmajidulislam/project1) | [Live Site](https://example.com)  |
+|  Project 2   | Brief about project 2 | [GitHub](https://github.com/smmajidulislam/project2) | [Live Site](https://example2.com) |
 
 </p>
 
-
 ---
 
-*Thanks for visiting my profile!* 😊
-
+_Thanks for visiting my profile!_ 😊
