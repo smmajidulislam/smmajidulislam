@@ -5,7 +5,12 @@
 
 <h1 align="center">S. M. Majidul Islam</h1>
 <p align="center">
-  <em>Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver</em><br/>
+  <p align="center">
+  <a href="https://github.com/smmajidulislam">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;JavaScript+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
   <a href="https://github.com/smmajidulislam" target="_blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/smmajidulislam/" target="_blank">LinkedIn</a> | 
   <a href="https://www.youtube.com/@JavaScriptBro" target="_blank">YouTube</a> 
