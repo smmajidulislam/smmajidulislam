@@ -1,6 +1,6 @@
 <!-- Profile Image & Name -->
 <p align="center">
-  <img width="150" src="https://raw.githubusercontent.com/smmajidulislam/smmajidulislam/master/assets/profile.jpg" alt="Profile Image" />
+  <img src="https://raw.githubusercontent.com/smmajidulislam/smmajidulislam/master/assets/profile.jpg" alt="Profile Image" width="100%" />
 </p>
 
 <h1 align="center">S. M. Majidul Islam</h1>
