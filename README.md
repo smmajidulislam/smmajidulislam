@@ -13,8 +13,19 @@
 
 ---
 
-### 👋 About Me
-Hi! I am **S. M. Majidul Islam**, a passionate MERN Stack Developer with experience building scalable web applications. I love coding, learning new technologies, and sharing knowledge.
+### 👋 Welcome to My GitHub Profile!
+
+Hi! I am **S. M. Majidul Islam**, a passionate self-taught MERN Stack Developer. I love building dynamic and user-friendly web applications. Coding is not just a skill for me—it's a passion.
+
+---
+
+### 🚀 What I'm Up To
+
+- 💻 I love working on creative frontend and backend projects.
+- 🔭 Currently exploring full-stack architecture and cloud integration.
+- 🌱 Learning Web 3.0 and blockchain technologies.
+- 👯 Looking to collaborate on open-source and team projects.
+
 
 ---
 
