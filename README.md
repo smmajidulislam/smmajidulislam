@@ -44,10 +44,11 @@ Hi! I am **S. M. Majidul Islam**, a passionate MERN Stack Developer with experie
 
 ### 📫 How to reach me?
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: https://www.linkedin.com/in/smmajidulislam/
-- YouTube: https://www.youtube.com/c/JavaScriptBro
-- Twitter: https://twitter.com/yourtwitterhandle (যদি থাকে)
+- 📧 Email: [sm.majid02@gmail.com](mailto:sm.majid02@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/smmajidulislam](https://www.linkedin.com/in/smmajidulislam/)
+- 📺 YouTube: [JavaScript Bro](https://www.youtube.com/@JavaScriptBro)
+- 🐦 Twitter/X: [@Majidul_Js](https://x.com/Majidul_Js)
+- 📞 Phone: [+8801709803348](tel:+8801709803348)
 
 ---
 
