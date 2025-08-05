@@ -73,10 +73,15 @@ Hi! I am **S. M. Majidul Islam**, a passionate self-taught MERN Stack Developer.
 
 ### 🔗 Featured Projects
 
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Project 1    | Brief about project 1 | [GitHub](https://github.com/smmajidulislam/project1) |
-| Project 2    | Brief about project 2 | [GitHub](https://github.com/smmajidulislam/project2) |
+<p align="center">
+
+| Project Name | Description | GitHub Link | Live URL |
+|:------------:|:-----------:|:-----------:|:--------:|
+| Project 1    | Brief about project 1 | [GitHub](https://github.com/smmajidulislam/project1) | [Live Site](https://example.com) |
+| Project 2    | Brief about project 2 | [GitHub](https://github.com/smmajidulislam/project2) | [Live Site](https://example2.com) |
+
+</p>
+
 
 ---
 
