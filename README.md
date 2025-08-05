@@ -1,17 +1,8 @@
 <!-- Profile Image & Name -->
 <p align="center">
-  <img 
-    src="https://github.com/smmajidulislam.png" 
-    alt="S. M. Majidul Islam"
-    width="150"
-    style="
-      border-radius: 50%;
-      border: 4px solid;
-      border-image: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80, #facc15) 1;
-      padding: 4px;
-    "
-  />
+  <img width="150" src="https://github.com/smmajidulislam.png" alt="S. M. Majidul Islam" />
 </p>
+
 
 
 <h1 align="center">S. M. Majidul Islam</h1>
