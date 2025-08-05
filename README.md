@@ -1,6 +1,6 @@
 <!-- Profile Image & Name -->
 <p align="center">
-  <img width="150" src="https://avatars.githubusercontent.com/u/your_github_userid?v=4" alt="Profile Image" style="border-radius:50%" />
+  <img width="150" src="https://github.com/smmajidulislam.png" alt="S. M. Majidul Islam" />
 </p>
 
 <h1 align="center">S. M. Majidul Islam</h1>
