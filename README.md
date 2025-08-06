@@ -1,6 +1,6 @@
 <!-- Profile Image & Name -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smmajidulislam/smmajidulislam/master/assets/profile.jpg" alt="Profile Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/smmajidulislam/smmajidulislam/master/assets/profile.png" alt="Profile Image" width="100%" />
 </p>
 
 <h1 align="center">S. M. Majidul Islam</h1>
@@ -45,7 +45,6 @@ Hi! I am **S. M. Majidul Islam**, a passionate self-taught MERN Stack Developer.
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
-
 
 ---
 
