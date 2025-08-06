@@ -46,13 +46,6 @@ Hi! I am **S. M. Majidul Islam**, a passionate self-taught MERN Stack Developer.
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smmajidulislam&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 ---
 
