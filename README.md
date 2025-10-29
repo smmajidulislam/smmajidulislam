@@ -5,9 +5,9 @@
 
 <h1 align="center">S. M. Majidul Islam</h1>
 <p align="center">
-  <a href="https://www.facebook.com/sunestboymajidul/" target="_blank">📘 Facebook</a> |
-  <a href="https://www.linkedin.com/in/smmajidulislam/" target="_blank">🔗 LinkedIn</a> |
-  <a href="https://www.youtube.com/@JavaScriptBro" target="_blank">📺 YouTube</a>
+  <a href="https://www.facebook.com/sunestboymajidul/" target="_blank" rel="noopener noreferrer">📘 Facebook</a> |
+<a href="https://www.linkedin.com/in/smmajidulislam/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a> |
+<a href="https://www.youtube.com/@JavaScriptBro" target="_blank" rel="noopener noreferrer">📺 YouTube</a>
 </p>
 <p align="center">
   <a href="https://github.com/smmajidulislam">
