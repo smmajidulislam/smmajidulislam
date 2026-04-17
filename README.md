@@ -93,7 +93,7 @@ Hi! I am **S. M. Majidul Islam**, a passionate self-taught MERN Stack Developer.
 
 | Project Name |      Description      |                     GitHub Link                      |             Live URL              |
 | :----------: | :-------------------: | :--------------------------------------------------: | :-------------------------------: |
-|  1   | portfolio | [GitHub](https://github.com/smmajidulislam/project1) | [Live Site](https://majidul.com)  |
+|  1   | portfolio | [GitHub](https://github.com/smmajidulislam/majidul-portfolio.git) | [Live Site](https://majidul.com)  |
 |  2   | Brief about project 2 | [GitHub](https://github.com/smmajidulislam/project2) | [Live Site](https://example2.com) |
 
 </p>
